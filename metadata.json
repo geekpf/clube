@@ -1,0 +1,5 @@
+{
+  "name": "Clube de Benefícios & Descontos",
+  "description": "Sistema completo de fidelidade com assinatura anual, conversão em créditos e marketplace de cupons (simples e premium) integrado ao Supabase e AbacatePay.",
+  "requestFramePermissions": []
+}
